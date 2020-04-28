@@ -6,9 +6,14 @@ body{
 	 background: linear-gradient(-90deg, #21fe2c, #5aff53);
 }
 
+
 #image {
 	width:100%;
 	height:auto;
+}
+
+#code {
+	color: crimson;
 }
 
 .Button {
@@ -25,9 +30,6 @@ body{
 	cursor: pointer;
   }
 
-  #code {
-	  color: crimson;
-  }
   
 
 
