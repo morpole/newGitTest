@@ -5,7 +5,7 @@
         document.getElementById("image").src = "goodjob.png"; 
         document.getElementById("code").innerHTML = "VoucherCode: BNY-UNH-IUJ-PLO";  
         window.scroll({
-            top: 100,
+            top: 160,
             left: 0,
             behavior: 'smooth'
           });
