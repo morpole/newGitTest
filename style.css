@@ -3,13 +3,35 @@
 
 
 body{
-	 background: linear-gradient(-90deg, #21fe2c, #5aff53);
+	background: linear-gradient(-90deg, #21fe2c, #5aff53);
+	/*background-image: url("questionmark.png");
+	background-repeat: repeat; 
+	background-size: 100px 100px;*/
+} 
+
+h1,h2,p,input {
+	font-family: 'Bangers', cursive;
+	font-size: 30px;
+	color: antiquewhite;
+	text-shadow:
+		 -1px -1px 0 #000,  
+		  1px -1px 0 #000,
+		  -1px 1px 0 #000,
+		   1px 1px 0 #000;
+	  }
 }
 
+p {
+	font-size: 50px;
+}
 
+#top {
+	font-size: 50px;
+}
 #image {
 	width:100%;
 	height:auto;
+	border-radius: 5%;
 }
 
 #code {
