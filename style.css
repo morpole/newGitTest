@@ -3,13 +3,7 @@
 
 
 body{
-
 	 background: linear-gradient(-90deg, #21fe2c, #5aff53);
-
-	/*background-attachment: fixed;
-
-	background-repeat: no-repeat;*/
-
 }
 
 #image {
@@ -29,6 +23,10 @@ body{
 	font-size: 26px;
 	margin: 4px 2px;
 	cursor: pointer;
+  }
+
+  #code {
+	  color: crimson;
   }
   
 

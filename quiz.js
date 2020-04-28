@@ -9,6 +9,7 @@
     function ShowUndo() 
 {
         document.getElementById("image").src = "nope.gif"; 
+        document.getElementById("code").innerHTML = "";
     }
 
 
