@@ -16,7 +16,7 @@
         document.getElementById("image").src = "nope.gif"; 
         document.getElementById("code").innerHTML = "";
         window.scroll({
-            top: 0,
+            top: 100,
             left: 0,
             behavior: 'smooth'
           });
