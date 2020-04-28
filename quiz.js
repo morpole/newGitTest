@@ -11,16 +11,7 @@
           });
     }
 
-    function ShowUndo() 
-{
-        document.getElementById("image").src = "nope.gif"; 
-        document.getElementById("code").innerHTML = "";
-        window.scroll({
-            top: 100,
-            left: 0,
-            behavior: 'smooth'
-          });
-    }
+ 
 
     function ShowUndo1() 
     {
