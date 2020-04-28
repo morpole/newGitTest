@@ -28,6 +28,14 @@ p {
 #top {
 	font-size: 50px;
 }
+
+#code {
+	font-size: 60px;
+}
+
+#birthday {
+	font-size: 60px;
+}
 #image {
 	width:100%;
 	height:auto;
