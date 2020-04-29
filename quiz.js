@@ -3,7 +3,7 @@
     function ShowRedo() 
 {
         document.getElementById("image").src = "image5.jpeg"; 
-        document.getElementById("code").innerHTML = "VoucherCode: BNY-UNH-IUJ-PLO";  
+        document.getElementById("code").innerHTML = "Xbox VoucherCode: XTGTW-PM672-WYCQV-J67QQ-YVRTZ";  
         window.scroll({
             top: 250,
             left: 0,
